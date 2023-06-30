@@ -1,0 +1,2 @@
+C:\Users\Isaac Muendo\C++Programs\Arrays\x64\Debug\Arrays.exe
+C:\cppconsoleapps\Arrays\x64\Debug\Arrays.exe
