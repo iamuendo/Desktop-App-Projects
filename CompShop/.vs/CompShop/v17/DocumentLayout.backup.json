@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66EAA5A0-02B2-416D-A504-7959BA0A65BD}|CompShop.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\compshop\\newlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66EAA5A0-02B2-416D-A504-7959BA0A65BD}|CompShop.csproj|solutionrelative:newlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EAA5A0-02B2-416D-A504-7959BA0A65BD}|CompShop.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\compshop\\newlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66EAA5A0-02B2-416D-A504-7959BA0A65BD}|CompShop.csproj|solutionrelative:newlaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EAA5A0-02B2-416D-A504-7959BA0A65BD}|CompShop.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\compshop\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{66EAA5A0-02B2-416D-A504-7959BA0A65BD}|CompShop.csproj|solutionrelative:report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EAA5A0-02B2-416D-A504-7959BA0A65BD}|CompShop.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\compshop\\dbmsconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66EAA5A0-02B2-416D-A504-7959BA0A65BD}|CompShop.csproj|solutionrelative:dbmsconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\NewLaptop.cs",
+              "RelativeDocumentMoniker": "NewLaptop.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\NewLaptop.cs",
+              "RelativeToolTip": "NewLaptop.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwJoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:21:55.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewLaptop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\NewLaptop.cs",
+              "RelativeDocumentMoniker": "NewLaptop.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\NewLaptop.cs [Design]",
+              "RelativeToolTip": "NewLaptop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T22:21:34.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Report1.rdlc",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\Report1.rdlc [Design]",
+              "RelativeToolTip": "Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-08T21:43:19.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBMSConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\DBMSConnect.cs",
+              "RelativeDocumentMoniker": "DBMSConnect.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\CompShop\\DBMSConnect.cs",
+              "RelativeToolTip": "DBMSConnect.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:02:07.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

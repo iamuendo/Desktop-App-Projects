@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\",
+  "WorkspaceRootPath": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\quickmartpos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\desktop-app-projects\\quickmartpos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\quickmartpos\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\desktop-app-projects\\quickmartpos\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|solutionrelative:receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\quickmartpos\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\desktop-app-projects\\quickmartpos\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|solutionrelative:saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\quickmartpos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\desktop-app-projects\\quickmartpos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\quickmartpos\\vatrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\desktop-app-projects\\quickmartpos\\vatrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|solutionrelative:vatrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\vsprojects\\quickmartpos\\vatcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|c:\\users\\isaac muendo\\documents\\desktop-app-projects\\quickmartpos\\vatcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D4EB632-5745-4DCD-AE20-7D5D9DE96FF3}|QuickMartPOS.csproj|solutionrelative:vatcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,78 +40,78 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\Program.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T16:54:27.31Z",
+              "WhenOpened": "2025-10-12T09:11:27.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Receipt.cs",
-              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\Receipt.cs",
               "RelativeDocumentMoniker": "Receipt.cs",
-              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\Receipt.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\Receipt.cs",
               "RelativeToolTip": "Receipt.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwDMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T15:00:00.181Z",
+              "WhenOpened": "2025-10-12T09:10:21.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SaleItem.cs",
-              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\SaleItem.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\SaleItem.cs",
               "RelativeDocumentMoniker": "SaleItem.cs",
-              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\SaleItem.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\SaleItem.cs",
               "RelativeToolTip": "SaleItem.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T14:52:33.321Z",
+              "WhenOpened": "2025-10-12T09:07:57.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\Product.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T14:41:22.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VatCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\VatCategory.cs",
-              "RelativeDocumentMoniker": "VatCategory.cs",
-              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\VatCategory.cs",
-              "RelativeToolTip": "VatCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T14:32:08.035Z",
+              "WhenOpened": "2025-10-12T09:07:14.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "VatRates.cs",
-              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\VatRates.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\VatRates.cs",
               "RelativeDocumentMoniker": "VatRates.cs",
-              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\VSProjects\\QuickMartPOS\\VatRates.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\VatRates.cs",
               "RelativeToolTip": "VatRates.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T14:27:47.952Z",
+              "WhenOpened": "2025-10-12T09:06:50.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VatCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\VatCategory.cs",
+              "RelativeDocumentMoniker": "VatCategory.cs",
+              "ToolTip": "C:\\Users\\Isaac Muendo\\Documents\\Desktop-App-Projects\\QuickMartPOS\\VatCategory.cs",
+              "RelativeToolTip": "VatCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:32:08.035Z",
               "EditorCaption": ""
             }
           ]

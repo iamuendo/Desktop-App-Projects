@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickMartPOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df913c386f90d4bac28411d837a62827d077e0a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92d7389bb9fa2c6193dbda3a401000844ca6706b")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickMartPOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickMartPOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
